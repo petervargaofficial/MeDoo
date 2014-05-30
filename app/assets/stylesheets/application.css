@@ -17,6 +17,12 @@
  */
 
 
+.daysindex{
+	background-image: url("http://i.imgur.com/xAcdpU3.jpg");
+	background-size: cover;
+	color: white;
+}
+
 hr {
   border:none;
 }
